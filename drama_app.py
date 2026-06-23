@@ -178,7 +178,7 @@ data_drama = {
         "Gadis Kretek.jpg",
         "Layangan Putus.jpg",
         "Kupu kupu malam.jpg",
-        "My Lecturer My Husband.jpg",
+        "Series My Lecturer My Husband.jpg",
         "Pertaruhan the series 2.jpg", # sesuaikan persis tulisan di GitHub-mu
         "Nanti Kita Cerita Tentang Hari Ini.jpg", # sesuaikan persis tulisan di GitHub-mu
         # === THAILAND ===
