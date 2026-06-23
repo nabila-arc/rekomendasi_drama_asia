@@ -168,41 +168,41 @@ data_drama = {
     ],
     "Poster": [
         # === KOREA ===
-        "crash_landing.jpg",
-        "business_proposal.jpg",
-        "goblin.jpg",
-        "vincenzo.jpg",
-        "twenty_five_twenty_one.jpg",
-        "mouse.jpg",
+        "Crash Landing on You.jpg",
+        "Business Proposal.jpg",
+        "Goblin.jpg",
+        "Vincenzo.jpg",
+        "Twenty-Five Twenty-One.jpg",
+        "Mouse.jpg",
         # === INDONESIA ===
-        "gadis_kretek.jpg",
-        "layangan_putus.jpg",
-        "kupu_malam.jpg",
-        "my_lecturer_my_husband.jpg",
-        "pertaruhan_series.jpg",
-        "nkcthi.jpg",
+        "Gadis Kretek.jpg",
+        "Layangan Putus.jpg",
+        "Kupu kupu malam.jpg",
+        "My Lecturer My Husband.jpg",
+        "Pertaruhan the series 2.jpg", # sesuaikan persis tulisan di GitHub-mu
+        "Nanti Kita Cerita Tentang ...", # sesuaikan persis tulisan di GitHub-mu
         # === THAILAND ===
-        "girl_from_nowhere.jpg",
-        "f4_thailand.jpg",
-        "wu_the_series.jpg",
-        "high_school_frenemy.jpg",
-        "beauty_newbie.jpg",
-        "the_dark_dice.jpg",
-        "faceless_love.jpg",
-        "home_school.jpg",
+        "Girl From Nowhere.jpg",
+        "F4 Thailand Boys Over Flowers...", # sesuaikan persis tulisan di GitHub-mu
+        "Wu The Series.jpg",
+        "High School Frenemy.jpg",
+        "Beauty Newbie.jpg",
+        "The Dark Dice.jpg",
+        "Faceless Love.jpg",
+        "Home School.jpg",
         # === CHINA ===
-        "hidden_love.jpg",
-        "love_fairy_devil.jpg",
-        "the_untamed.jpg",
-        "put_your_head.jpg",
-        "reset.jpg",
-        "archives_nanyang.jpg",
-        "time_raiders.jpg",
-        "the_spirealm.jpg",
-        "zhan_zhao_adventures.jpg",
-        "a_journey_to_love.jpg",
-        "desire_catcher.jpg",
-        "legend_zhang_hai.jpg",
+        "Hidden Love.jpg",
+        "Love between fairy and de...", # sesuaikan persis tulisan di GitHub-mu
+        "The Untamed.jpg",
+        "Put Your Head On My Sho...", # sesuaikan persis tulisan di GitHub-mu
+        "Reset.jpg",
+        "Archives The Nanyang Myster...", # sesuaikan persis tulisan di GitHub-mu
+        "Time Raiders.jpg",
+        "The Spirealm.jpg",
+        "Zhan Zhao Abentures.jpg", # sesuaikan persis tulisan di GitHub-mu
+        "A Journey to Love.jpg",
+        "Desire Catcher.jpg",
+        "Legend of Zhang Hai.jpg",
     ],
     "Sinopsis": [
         # Korea
