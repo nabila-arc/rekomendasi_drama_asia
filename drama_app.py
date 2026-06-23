@@ -180,10 +180,10 @@ data_drama = {
         "Kupu kupu malam.jpg",
         "My Lecturer My Husband.jpg",
         "Pertaruhan the series 2.jpg", # sesuaikan persis tulisan di GitHub-mu
-        "Nanti Kita Cerita Tentang ...", # sesuaikan persis tulisan di GitHub-mu
+        "Nanti Kita Cerita Tentang Hari Ini.jpg", # sesuaikan persis tulisan di GitHub-mu
         # === THAILAND ===
         "Girl From Nowhere.jpg",
-        "F4 Thailand Boys Over Flowers...", # sesuaikan persis tulisan di GitHub-mu
+        "F4 Thailand Boys Over Flowers.jpg", # sesuaikan persis tulisan di GitHub-mu
         "Wu The Series.jpg",
         "High School Frenemy.jpg",
         "Beauty Newbie.jpg",
@@ -192,11 +192,11 @@ data_drama = {
         "Home School.jpg",
         # === CHINA ===
         "Hidden Love.jpg",
-        "Love between fairy and de...", # sesuaikan persis tulisan di GitHub-mu
+        "Love between fairy and devil.jpg", # sesuaikan persis tulisan di GitHub-mu
         "The Untamed.jpg",
-        "Put Your Head On My Sho...", # sesuaikan persis tulisan di GitHub-mu
+        "Put Your Head On My Shoulder.jpg", # sesuaikan persis tulisan di GitHub-mu
         "Reset.jpg",
-        "Archives The Nanyang Myster...", # sesuaikan persis tulisan di GitHub-mu
+        "Archives The Nanyang Mystery.jpg", # sesuaikan persis tulisan di GitHub-mu
         "Time Raiders.jpg",
         "The Spirealm.jpg",
         "Zhan Zhao Abentures.jpg", # sesuaikan persis tulisan di GitHub-mu
